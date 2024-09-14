@@ -31,6 +31,6 @@ You can fork this repo and make further changes like:
 * etc
 ## Major Bug  
 The major bug I have faced is not updating the size of the text according to the CSS, but I was only a second year student so you can fix that small bug 😊.  
---
+
 ### Credits
 >Web Browser Engineering Book Written by **Pavel Panchekha & Chris Harrelson**
