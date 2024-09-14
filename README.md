@@ -1,4 +1,5 @@
 # Web Browser Using Python🔥🔥🔥  
+
 The Browser Developed by me to understand the working of web browsers. This was developed during the second year summer vacation. You can access this git repository to check understand the working, code, and other program details.  
 --
 **The Browser is developed in python programming language and supports HTML, CSS parsing with proper connection establishment with the HTTP / HTTPS URL(s)**  
